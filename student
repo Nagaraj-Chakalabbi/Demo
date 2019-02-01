@@ -1,0 +1,10 @@
+[
+    {
+  "Name": "ABC",
+  "Courses": ["C1", "C2", "C3"]
+  },
+  {
+    "Name": "XYZ",
+    "Courses": ["C1", "C2", "C3"]
+  }
+]
